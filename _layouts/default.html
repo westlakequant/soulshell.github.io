@@ -55,13 +55,13 @@
 		{% elsif page.call_to_action == 'Contact' %}
 			<section class="quote-section">
 				<p class="container editable">
-					<a href="{{ site.baseurl }}/contact/">Contact us</a> today to find out how we can help you. Your first consultation is free.
+					<a href="{{ site.baseurl }}/contact/">Contact us</a>
 				</p>
 			</section>
 		{% else %}
 			<section class="quote-section">
 				<p class="container editable">
-					<a href="{{ site.baseurl }}/blog/">Read our blog</a> for an introduction and quick tips on various areas of the law.
+					<a href="{{ site.baseurl }}/blog/">Read our blog</a> to get latest research report.
 				</p>
 			</section>
 		{% endif %}
@@ -102,10 +102,7 @@
 
 			<div class="legal-line">
 				<p class="container">
-					&copy; {{ site.time | date: '%Y' }} {{ site.data.company.title }} &bull;
-					<a href="{{ site.baseurl }}/terms/">Terms</a>
-					&bull;
-					Template by <a href="http://cloudcannon.com/">CloudCannon</a>
+					&copy; {{ site.time | date: '%Y' }} {{ site.data.company.title }}
 				</p>
 			</div>
 		</footer>
