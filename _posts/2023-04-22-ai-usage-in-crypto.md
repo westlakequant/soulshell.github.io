@@ -2,7 +2,7 @@
 title: Artifical intelligence usage in crypto
 date: 2023-04-22 00:00:00
 categories:
-- Artifical Intelligence
+  - Artifical Intelligence
 author_staff_member: Charles Xu
 image: "https://unsplash.it/600/450?image=448&a=.png"
 large_header: false
