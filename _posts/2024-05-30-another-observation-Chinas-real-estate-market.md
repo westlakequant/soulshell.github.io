@@ -1,5 +1,5 @@
 ---
-title: Another observation on China's real estate market
+title: 中国房地产市场的另一个角度观察
 date: 2024-05-30 00:00:00
 categories:
   - real estate
