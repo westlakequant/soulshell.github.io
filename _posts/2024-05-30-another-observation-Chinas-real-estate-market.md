@@ -4,7 +4,7 @@ date: 2024-05-30 00:00:00
 categories:
   - real estate
 author_staff_member: Charles Xu
-image: "https://unsplash.it/600/450?image=235&a=.png"
+image: "https://unsplash.it/600/250?image=235&a=.png"
 large_header: false
 ---
 
