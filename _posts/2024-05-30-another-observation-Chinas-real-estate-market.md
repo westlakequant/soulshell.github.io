@@ -1,5 +1,5 @@
 ---
-title: 中国房地产市场的另一个角度观察
+title: Another Observation on China's Real Estate Market
 date: 2024-05-30 00:00:00
 categories:
   - real estate
@@ -8,18 +8,8 @@ image: "https://unsplash.it/600/450?image=230&a=.png"
 large_header: false
 ---
 
-本文尝试从数据和一线市场的反馈来观察当前阶段中国的房地产市场的情况，目前中国市场上普遍看空房地产市场的发展
-
-![](https://unsplash.it/960/350?image=101){: width="960" height="350"}
-
-资产的价格有几个因素驱动，包括不限于：需求 收益和投资信心，针对房地产的这几个因素分别如何呢？房地产提供基础的居住需求，是人类社会最为基础的需求之一，需求的量级变化取决于几个因素，包括：人口规模衍生的居住需求 居民收入水平导致的居住需求可支付能力，收益从几个角度来看，首先房地产的租金收益作为出售居住权力的收益，目前中国房地产住宅类型的收益率普遍在1%-2%之间，其他属性如商住类型的收益率更高约2%-5%，同时房地产作为固定资产具有一定的抗通胀能力，假设通胀率在5%-10%的区间，抗通胀率为实际通胀率的一定比例，取一个合理的系数的50%-100%，实际抗通胀能力还是要看公众对于房地产大类资产的认可和信心程度。投资信心取决于国家未来的发展景气程度 房地产大类资产的在未来的资产位置。因此通过结合租售比和抗通胀能力，比如通胀取10%，系数为50%的时候，住宅类整体收益因该在6%-7%
-
-但是我们要知道，居住是人类社会最根本 最基础的需求，需求不会消失，需求还会升级，因此房地产提供的价值是无法被其他代替的。同时房地产的底层资产为土地，土地作为基础生产资料，是基础生产资料的再生产成住宅从而为社会提供居住的产品的一种表象，因此放在更长远的角度来看，房地产市场的长期需求和底层逻辑是可靠的
-
-以上的综合收益率对比国债和其他资产收益相比如何呢？假设银行存款利率2%，长期国债收益率2.5%的话，房地产的长期收益率还是可以远超如上两类资产，同时存款和长期国债都是以币本位，不享受抗通胀能力，因此法币本位资产抗通胀的系数为0。
-
 ![](https://unsplash.it/960/350?image=235){: width="960" height="350"}
 
-![](https://unsplash.it/960/350?image=238){: width="960" height="350"}
+This article views China's real estate market from a new perspective. Based on the latest real estate data and incorporating the most recent frontline transaction information, it makes inferences and judgments to update certain perceptions about China's real estate market, thereby providing a basis for some real estate market transactions.
 
-![](https://unsplash.it/960/350?image=261){: width="960" height="350"}
+<center><embed src="/uploads/pdf/Another-observation-on-china-realestate-market.pdf" width="850" height="600"></center>
